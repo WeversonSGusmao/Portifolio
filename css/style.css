@@ -88,3 +88,7 @@ section.topo-do-site .flex{
     font-size: 38px;
     line-heigth: 36px;
 }
+
+.topo-do-site h2 span{
+    color: #00ff08;
+}
