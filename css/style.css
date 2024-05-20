@@ -75,7 +75,7 @@ section.topo-do-site{
 section.topo-do-site .flex{
     align-items: center;
     justify-content: center;
-    gap: ;
+    gap: 90px;
 }
 
 .topo-do-site h1{
@@ -86,4 +86,5 @@ section.topo-do-site .flex{
 .topo-do-site h2{
     color: #fff;
     font-size: 38px;
+    line-heigth: 36px;
 }
