@@ -89,9 +89,9 @@ section.topo-do-site .flex{
     line-heigth: 36px;
 }
 
-.topo-do-site h2 span{
+.topo-do-site .txt-topo-site h2 span{
     color: #00ff08;
 }
- .topo-do-site p{
+ .topo-do-site .txt-topo-site p{
      color: #fff;
  }
