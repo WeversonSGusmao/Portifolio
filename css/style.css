@@ -113,3 +113,9 @@ section.topo-do-site .flex{
         top: 30px;
     }
 }
+
+/*ESTILO DAS ESPECIALIDADES  */
+
+section .especialidades{
+    padding: 40px 4%;
+}
