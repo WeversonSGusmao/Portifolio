@@ -147,7 +147,7 @@ section.especialidades .flex{
     box-shadow: 0 0 15px #ffff78;
 }
 
-.especialidades .especialidades-box{
+.especialidades .especialidades-box i{
     font-size: 70px;
     color: #00ff08;
 }
