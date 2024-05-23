@@ -175,10 +175,15 @@ section.sobre .flex{
 .sobre .txt-sobre h2{
     font-size: 40px;
     line-heigth: 40px;
-    margim-bottom: 20px;
+    margim-bottom: 30px;
 }
 
 .sobre .txt-sobre h2 span{
     color: 00ff08;
     display: block;
+}
+
+.sobre .txt-sobre{
+    marging: 20px 0;
+    text-align: justify
 }
