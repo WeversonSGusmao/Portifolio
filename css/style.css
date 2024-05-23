@@ -183,7 +183,7 @@ section.sobre .flex{
     display: block;
 }
 
-.sobre .txt-sobre{
+.sobre .txt-sobre p{
     marging: 20px 0;
     text-align: justify
 }
