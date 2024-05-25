@@ -98,7 +98,7 @@ section.topo-do-site .flex{
 .topo-do-site h2{
     color: #fff;
     font-size: 38px;
-    line-heigth: 36px;
+    line-height: 36px;
     margin: 40px 0;
 }
 
@@ -174,8 +174,8 @@ section.sobre .flex{
 
 .sobre .txt-sobre h2{
     font-size: 40px;
-    line-heigth: 40px;
-    margim-bottom: 30px;
+    line-height: 40px;
+    margin-bottom: 30px;
 }
 
 .sobre .txt-sobre h2 span{
@@ -184,6 +184,6 @@ section.sobre .flex{
 }
 
 .sobre .txt-sobre p{
-    marging: 20px 0;
+    margin: 20px 0;
     text-align: justify
 }
