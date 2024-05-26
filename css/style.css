@@ -206,5 +206,15 @@ transition: .2s;
 
 section.porifolio{
  padding: 80px 4%;
- box-shadow: 0 0 40px 10px #fffff1d;
+ box-shadow: 0 0 40px 10px #ffffff1d;
+}
+
+sextion.portifolio .flex{
+ gap: 80px;
+}
+
+.img-port{
+ width: 360px;
+ height: 460px;
+ background-color: #00ff08;
 }
