@@ -210,7 +210,7 @@ section.porifolio{
 }
 
 section.portifolio .flex{
- gap: 80px;
+ justify-content: space around;
 }
 
 .img-port{
