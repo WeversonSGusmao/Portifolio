@@ -206,11 +206,11 @@ transition: .2s;
 
 section.porifolio{
  padding: 80px 4%;
- box-shadow: 0 0 40px 10px #ffffff1d;
+ box-shadow: 0 0 40px 10px #ffffff67;
 }
 
 section.portifolio .flex{
- justify-content: space-around;
+    justify-content: space-around;
 }
 
 .img-port{
