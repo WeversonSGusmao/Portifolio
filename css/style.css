@@ -202,14 +202,14 @@ margin: 0 5px;
 transition: .2s;
 }
 
-/* ETILO DO PORTIFOLIO */
+/* ETILO DO PORTFOLIO */
 
-section.portifolio{
+section.portfolio{
  padding: 80px 4%;
  box-shadow: 0 0 40px 10px #ffffff67;
 }
 
-section.portifolio .flex{
+section.portfolio .flex{
     justify-content: space-around;
 }
 
