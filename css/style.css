@@ -286,11 +286,11 @@ form .btn-enviar{
 
 form .btn-enviar input{
     width: 120px;
-    background-color: #00ff00;
+    background-color: #00ff08;
     color: #000;
 }
 
-form input::placeholder{
+/* form input::placeholder{
     color: #00ff00;
-}
+} */
 
