@@ -279,6 +279,18 @@ form textarea{
     max-height: 200px;
 }
 
+form .btn-enviar{
+    margin-top: 20px;
+    text-align: center;
+}
+
+form .btn-enviar input{
+    width: 120px;
+    background-color: #00ff00;
+    color: #000;
+}
+
 form input::placeholder{
     color: #00ff00;
 }
+
