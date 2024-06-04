@@ -249,3 +249,7 @@ section.portfolio .flex{
 .overlay: hover{
     opacity: 1;
 }
+
+section.formulario{
+ padding: 80px 4%;
+}
