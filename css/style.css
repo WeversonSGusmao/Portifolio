@@ -341,7 +341,7 @@ h2.titulo {
 }
 
     /* CABEÇALHO*/
-    .menu-desktop{
+    .menu-desktop, .btn-contato{
         display: none;
     }
 }
