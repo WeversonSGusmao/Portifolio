@@ -202,7 +202,7 @@ margin: 0 5px;
 transition: .2s;
 }
 
-/* ETILO DO PORTFOLIO */
+/* ESTILO DO PORTFOLIO */
 
 section.portfolio{
  padding: 80px 4%;
@@ -298,3 +298,12 @@ form .btn-enviar input{
     color: #00ff00;
 } 
 
+/* Estilo do footer*/
+
+footer{
+    padding: 40px 4%;
+    box-shadow: 0 0 40px 10px #ffffff1d;
+}
+footer .flex{
+    justify-content: space-between;
+}
