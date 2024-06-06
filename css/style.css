@@ -324,11 +324,7 @@ footer .line-footer p a{
     color: #fff;
 }
 
-@media screen and(max-width: 1100px){
-/* CABEÇALHO*/
-    .menu-desktop, .btn-contato{
-        display: none;
-                  }
+@media screen and (max-width: 1020px){
     
 /* CLASSES GERAIS*/
 .flex{
@@ -343,6 +339,9 @@ h2.titulo {
     font-size: 34px;
     line-height: 30px;
 }
-
+/* CABEÇALHO*/
+.menu-desktop, .btn-contato{
+      display: none;
+ }
     
 }
