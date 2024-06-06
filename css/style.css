@@ -343,5 +343,10 @@ h2.titulo {
 .menu-desktop, .btn-contato{
       display: none;
  }
-    
+section.topo-do-site{
+    padding: 20px 8%;
+}
+.topo-do-site h1{
+    font-size: 30px;
+}
 }
