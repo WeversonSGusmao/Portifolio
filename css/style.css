@@ -325,6 +325,10 @@ footer .line-footer p a{
 }
 
 @media screen and(max-width: 1020px){
+/* CABEÇALHO*/
+    .menu-desktop, .btn-contato{
+        display: none;
+                  }
     
 /* CLASSES GERAIS*/
 .flex{
@@ -340,8 +344,5 @@ h2.titulo {
     line-height: 30px;
 }
 
-    /* CABEÇALHO*/
-    .menu-desktop, .btn-contato{
-        display: none;
-    }
+    
 }
