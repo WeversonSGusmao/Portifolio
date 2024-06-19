@@ -70,7 +70,7 @@ header nav.menu-desktop a :hover{
     transform: scale(1.05);
 }
 
-header nav.menu-desktop ul{
+header nav ul{
         list-style-type: none;
 }
 
