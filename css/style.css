@@ -65,16 +65,16 @@ header a{
     transition: .2s;
 }
 
-header a :hover{
+header nav.menu-desktop a :hover{
     color: #fff;
     transform: scale(1.05);
 }
 
-header nav ul{
+header nav.menu-desktop ul{
         list-style-type: none;
 }
 
-header nav ul li{
+header nav.menu-desktop ul li{
         display: inline-block;
         padding: 0 40px;
 }
@@ -99,6 +99,10 @@ header nav ul li{
     font-size: 20px;
     font-weight: 300;
     padding: 20px 4%;
+}
+
+.menu-mobile nav ul li a:hover{
+    background-color: #00FF08;
 }
 
 /*ESTILO DO TOPO DO SITE  */
