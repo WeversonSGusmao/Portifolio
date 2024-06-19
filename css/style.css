@@ -79,6 +79,27 @@ header nav ul li{
         padding: 0 40px;
 }
 
+/*ESTILO DO MENU MOBILE  */
+
+.menu-mobile{
+    background-color: red;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 99999;
+    width: 70%;
+}
+
+.menu-mobile nav ul{
+    text-align: right;
+}
+.menu-mobile nav ul li a{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 20px 4%;
+}
 
 /*ESTILO DO TOPO DO SITE  */
 
