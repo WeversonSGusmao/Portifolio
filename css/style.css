@@ -104,6 +104,7 @@ header nav.menu-desktop ul li{
 
 .menu-mobile nav ul li a:hover{
     background-color: #00FF08;
+    color: #000;
 }
 
 /*ESTILO DO TOPO DO SITE  */
