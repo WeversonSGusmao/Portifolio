@@ -81,6 +81,11 @@ header nav.menu-desktop ul li{
 
 /*ESTILO DO MENU MOBILE  */
 
+.btn-abrir-menu i{
+    color: #00ff08;
+    font-size: 40px;
+}
+
 .menu-mobile{
     background-color: #000;
     height: 100vh;
