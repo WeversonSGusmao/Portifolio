@@ -94,7 +94,12 @@ header nav.menu-desktop ul li{
     right: 0;
     z-index: 99999;
     width: 0%;
-    overflow: rideden;
+    overflow: ridden;
+    transition: .2s;
+}
+
+.menu.mobile.abrir-menu{
+    width: 70%
 }
 
 .menu-mobile .btn-fechar{
