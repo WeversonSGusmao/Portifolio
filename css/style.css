@@ -81,6 +81,10 @@ header nav.menu-desktop ul li{
 
 /*ESTILO DO MENU MOBILE  */
 
+.btn-abrir-menu{
+    display: none;
+}
+
 .btn-abrir-menu i{
     color: #00ff08;
     font-size: 40px;
@@ -404,6 +408,10 @@ h2.titulo{
 h2.titulo {
     font-size: 34px;
     line-height: 30px;
+}
+
+.btn-abrir-menu{
+    display: block;
 }
 /* CABEÇALHO*/
 .menu-desktop, .btn-contato{
