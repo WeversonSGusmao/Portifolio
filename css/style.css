@@ -107,7 +107,7 @@ header nav.menu-desktop ul li{
 }
 
 .menu.mobile.abrir-menu ~ .overlay-menu{
-    width: 70%
+    width: 70%;
 }
 
 .menu-mobile .btn-fechar{
@@ -253,7 +253,7 @@ section.sobre .flex{
 
 .sobre .txt-sobre p{
     margin: 20px 0;
-    text-align: justify
+    text-align: justify;
 }
 
 .btn-social button{
@@ -430,7 +430,7 @@ section.topo-do-site{
 }
 
 .topo-do-site .img-topo-site img{
-    width: 100%
+    width: 100%;
 }
 /*ESPECIALIDADES*/
 section.especialidades{
