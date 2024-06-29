@@ -103,11 +103,11 @@ header nav.menu-desktop ul li{
 }
 
 .menu-mobile.abrir-menu{
-    display: block;
+    width: 70%;
 }
 
-.menu-mobile.abrir-menu ~ .overlay-menu{
-    width: 70%;
+.menu-mobile.abrir-menu ~ .overlay-menu{ 
+    display: block;
 }
 
 .menu-mobile .btn-fechar{
