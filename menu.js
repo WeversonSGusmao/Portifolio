@@ -11,6 +11,6 @@ menu.addEventListener('click', ()=>{
   menu.ClassList.remove('abrir-menu')
 })
 
-ooverlay.addEventListener('click', ()=>{
+overlay.addEventListener('click', ()=>{
   menu.ClassList.remove('abrir-menu')
 })
