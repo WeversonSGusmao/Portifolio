@@ -102,11 +102,11 @@ header nav.menu-desktop ul li{
     transition: .5s;
 }
 
-.menu.mobile.abrir-menu{
+.menu-mobile.abrir-menu{
     display: block;
 }
 
-.menu.mobile.abrir-menu ~ .overlay-menu{
+.menu-mobile.abrir-menu ~ .overlay-menu{
     width: 70%;
 }
 
