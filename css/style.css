@@ -312,7 +312,7 @@ section.portfolio .flex{
     transition: .5s;
 }
 
-.overlay: hover{
+.overlay:hover{
     opacity: 1;
 }
 
