@@ -143,7 +143,7 @@ header nav.menu-desktop ul li{
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 888888;
+    z-index: 9999999;
     display: none;
 }
 
