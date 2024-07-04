@@ -16,7 +16,3 @@ overlay.addEventListener('click', ()=>{
 })
 
 
-document.getElementById('email').addEventListener('click', function(event){
-  event.preventDefault();
-    document.location.href = 'mailto:weversongusmao365@gmail.com';
-});
