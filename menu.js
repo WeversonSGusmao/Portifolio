@@ -14,3 +14,9 @@ menu.addEventListener('click', ()=>{
 overlay.addEventListener('click', ()=>{
   menu.classList.remove('abrir-menu')
 })
+
+
+document.getElementById('email').addEventListener('click', function(event){
+  event.preventDefault();
+    document.location.href = 'mailto:weversongusmao365@gmail.com';
+});
