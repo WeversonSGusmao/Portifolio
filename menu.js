@@ -23,3 +23,9 @@ function submitForm() {
   
   return false;
 }
+
+_limpaFormulario() {
+    let formulario = document.querySelector('contato_form');
+    formulario.reset();
+    this.nome.focus();
+}
