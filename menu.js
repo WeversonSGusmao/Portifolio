@@ -20,12 +20,8 @@ function submitForm() {
   var form = document.getElementById('contato_form');
 
   form.reset();
-  
+  this.nome.focus();
   return false;
 }
 
-_limpaFormulario() {
-    let formulario = document.querySelector('contato_form');
-    formulario.reset();
-    this.nome.focus();
-}
+
