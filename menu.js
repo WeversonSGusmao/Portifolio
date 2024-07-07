@@ -16,4 +16,10 @@ overlay.addEventListener('click', ()=>{
 })
 
 
+function submitForm() {
+  var form = document.getElementById('contato_form');
 
+  form.reset();
+  
+  return false;
+}
